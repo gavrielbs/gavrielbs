@@ -4,7 +4,7 @@ My name is Gabriel Bar-Sella, Im a Data analyst and an MSc student at Weizmann I
 
 - You are welcome to connect and say hello on  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - If you are interested in plant remote sensing, take a look at my soon-to-be-published article on [biorxiv](https://www.biorxiv.org/content/10.1101/2023.12.30.573617v1) about using iPhone for 3D scanning in plant researching.
--- The code I used for the research is available [here](https://github.com/gavrielbs/3D_Corn_Phenotype.github.io)
+- The code I used for the research is available [here](https://github.com/gavrielbs/3D_Corn_Phenotype.github.io)
 
 - This is a picture of maize plants that were grown during the research
   <img width="713" alt="4" src="https://github.com/gavrielbs/gavrielbs.github.io/assets/88232723/80d5d75e-eec1-43a5-8741-36071415dbe2">
