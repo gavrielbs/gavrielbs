@@ -2,7 +2,8 @@
 
 My name is Gabriel Bar-Sella, Im a Data analyst and an MSc student at Weizmann Institute of Science.
 
-- You are welcome to connect and say hello on  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+- You are welcome to connect and say hello on  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 
 <!--
